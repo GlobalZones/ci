@@ -4,7 +4,7 @@ span: span-32
 title: eQuantum
 baseurl: /ci
 repository: GlobalZones/ci
-action: GlobalZones/duckdb/actions/runs/15167463352
+action: GlobalZones/duckdb/actions/runs/15357624237
 description: ₠Quantum Project
 
 #debug:
